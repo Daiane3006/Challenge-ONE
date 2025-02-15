@@ -1,6 +1,6 @@
 # Amigo Secreto - Descrição do Projeto
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Desenvolvido](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Este projeto está sendo desenvolvido no **Challenge ONE**, onde o desafio é criar uma aplicação interativa para sortear um amigo de forma aleatória.
 A aplicação permite que os usuários preencham um campo de texto com os nomes dos amigos e, em seguida, realizem um sorteio para descobrir quem será o "Amigo Secreto".
@@ -12,7 +12,9 @@ A aplicação permite que os usuários preencham um campo de texto com os nomes 
 - `Funcionalidade 3`: Quando todos os nomes estiverem cadastrados, o usuário pode clicar no botão **"Sortear amigo"**.
 - `Funcionalidade 4`: A aplicação escolherá aleatoriamente um dos nomes e exibirá o resultado de forma dinâmica e divertida.
 
-<!-- vídeo do projeto funcionando -->
+# :computer: Resultado
+
+![alt text](./assets/Amigo_Secreto.mp4)
 
 # :heavy_check_mark: Tecnologias utilizadas
 
