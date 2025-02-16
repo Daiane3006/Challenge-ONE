@@ -14,7 +14,7 @@ A aplicação permite que os usuários preencham um campo de texto com os nomes 
 
 # :computer: Resultado
 
-![alt text](./assets/Amigo_Secreto.mp4)
+![resultado final do projeto](./assets/amigo_secreto.gif)
 
 # :heavy_check_mark: Tecnologias utilizadas
 
